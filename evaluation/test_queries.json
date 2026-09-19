@@ -1,0 +1,131 @@
+[
+  {
+    "query": "How many work from home days are allowed per month?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Who is eligible for the work from home policy?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "How far in advance should employees request work from home?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Can unused work from home days be carried forward?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "What policy covers remote working arrangements?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  },
+
+  {
+    "query": "How many annual paid leave days are provided?",
+    "relevant_document": "leave_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "How many unused annual leave days can be carried forward?",
+    "relevant_document": "leave_policy.pdf",
+    "relevant_page": 2
+  },
+  {
+    "query": "What is the annual leave entitlement?",
+    "relevant_document": "leave_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Can unused leave be transferred to the next year?",
+    "relevant_document": "leave_policy.pdf",
+    "relevant_page": 2
+  },
+  {
+    "query": "What are the rules for carrying forward annual leave?",
+    "relevant_document": "leave_policy.pdf",
+    "relevant_page": 2
+  },
+
+  {
+    "query": "What password requirements must employees follow?",
+    "relevant_document": "it_security_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "What security measures are required for employee accounts?",
+    "relevant_document": "it_security_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "What should an employee do when they notice a security incident?",
+    "relevant_document": "it_security_policy.pdf",
+    "relevant_page": 2
+  },
+  {
+    "query": "What authentication requirements are specified in the IT security policy?",
+    "relevant_document": "it_security_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Which policy contains the company's password rules?",
+    "relevant_document": "it_security_policy.pdf",
+    "relevant_page": 1
+  },
+
+  {
+    "query": "How much internet reimbursement can eligible employees claim?",
+    "relevant_document": "reimbursement_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "What is the monthly limit for internet expenses?",
+    "relevant_document": "reimbursement_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "How long do employees have to submit reimbursement claims?",
+    "relevant_document": "reimbursement_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Who can claim internet reimbursement?",
+    "relevant_document": "reimbursement_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "What is the policy for claiming employee expenses?",
+    "relevant_document": "reimbursement_policy.pdf",
+    "relevant_page": 1
+  },
+
+  {
+    "query": "What is policy HR-WFH-008?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Which policy defines annual paid leave?",
+    "relevant_document": "leave_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Which policy contains employee password requirements?",
+    "relevant_document": "it_security_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Which policy defines internet reimbursement?",
+    "relevant_document": "reimbursement_policy.pdf",
+    "relevant_page": 1
+  },
+  {
+    "query": "Where can I find the rules for remote working?",
+    "relevant_document": "work_from_home_policy.pdf",
+    "relevant_page": 1
+  }
+]
